@@ -13,7 +13,7 @@
 
 ###Demo Example###
 
-1. Open three terminals and `cd` to the `Vimeo` directory i.e the directory containing the component files.
+1. Open three terminals and `cd` to the `file-validator-queue` directory i.e the directory containing the component files.
 
 2. Run the two writer jobs in separate terminals using `php  -f valid_write_job.php` and `php -f invalid_write_job.php`.
 
