@@ -1,4 +1,5 @@
 #Data Filter Application#
+A PHP solution to validate data from a file using a filter and writing valid and invalid outputs to a file. It uses the PHP Semaphores (message queue) to handle read and write asynchronously.
 
 ###Components###
 
